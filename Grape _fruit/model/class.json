@@ -1,4 +1,6 @@
 
-{"Downy mildew": {"id":34},
-"Gray mold": {"id":41},
-"Leaf scars": {"id":33}}
+{"Cercospora": {"id":44},
+"Bacterial_Blight": {"id":41},
+"Anthracnose": {"id":33},
+"Alternaria": {"id":45}}
+
